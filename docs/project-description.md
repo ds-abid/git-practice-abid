@@ -1,6 +1,6 @@
 ## Calculator Operations
 
-The application supports addition, subtraction, and multiplication.
+The application supports addition, subtraction, multiplication, and division.
 
 ## Technologies
 - Python
